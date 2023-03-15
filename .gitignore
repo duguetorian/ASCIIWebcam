@@ -1,2 +1,2 @@
-wbcenv
-__pycache__
+wbcenv/*
+__pycache__/*
